@@ -1,0 +1,7 @@
+contacts.csv
+GYM Contacts.csv
+venv
+# Ignore Python cache folders
+__pycache__/
+*/__pycache__/
+
